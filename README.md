@@ -1,6 +1,7 @@
 # 💫 About Me:
 Currently working in Flutter mobile App development.
 
+![alt text](https://github.com/als-code/als-code/blob/main/github-header-image.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-lasierra) 
