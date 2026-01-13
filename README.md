@@ -1,6 +1,7 @@
 ![alt text](https://github.com/als-code/als-code/blob/main/github-header-image.png)
 # ℹ️ About Me:
-Currently learning and working in Flutter mobile App development and React.
+Currently learning and working in Flutter mobile App development, React, Angular, PostgreeSQL and docker.
+Solid experience on SSH and ubuntu-based distros.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-lasierra) 
 # 💻 Tech Stack:
