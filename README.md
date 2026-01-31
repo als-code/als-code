@@ -76,7 +76,7 @@ My background in electricity and electronics gives me a unique perspective on so
 ![Autodesk Eagle](https://img.shields.io/badge/Autodesk%20Eagle-4096D9?style=for-the-badge&logo=autodesk&logoColor=white "Autodesk Eagle")
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-lasierra) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-lasierra) 
 
 ## ☕️ You can help me learn faster with some coffee ☕️
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/als_code) 
