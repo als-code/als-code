@@ -3,7 +3,7 @@
 **Fullstack Developer (React · Node.js · PostgreSQL)**  
 I build clean, fast, and maintainable web applications, taking care of the frontend, backend, and database.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-lasierra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-lasierra/)
 
 - **Online CV (demo)**: https://als-code.github.io/cv-react/  
 
