@@ -1,15 +1,18 @@
 # 👋 I'm Alejandro Lasierra <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" align="top" alt="coding animation"/>
 
-**Fullstack Developer** `(React · Node.js · PostgreSQL)`
+**Fullstack Developer** `(React · Node.js · Flutter · PostgreSQL)`
 
-I build clean, fast, and maintainable web applications — frontend, backend, and database.
+I build clean, fast, and maintainable applications — web, mobile, backend, and database.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-lasierra/)
 [![Online CV](https://img.shields.io/badge/Online_CV-181717?style=for-the-badge&logo=react&logoColor=61DAFB)](https://als-code.github.io/cv-react/)
 
----## 💼 What I focus on
+---
+
+## 💼 What I focus on
 
 - **Frontend**: React (SPAs), reusable components, responsive UI.
+- **Mobile**: Flutter (cross-platform apps), clean architecture and reusable widgets.
 - **Backend**: Node.js (APIs), focus on clean and scalable code.
 - **Data**: PostgreSQL (modeling and queries); experience setting up **Dockerized** environments.
 
@@ -26,15 +29,22 @@ I build clean, fast, and maintainable web applications — frontend, backend, an
 
 ## 🧰 Main stack
 
+#### Frameworks & libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### Operating Systems & Tools
 <!-- OS / tools -->
