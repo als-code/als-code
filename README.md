@@ -1,14 +1,31 @@
-# 👋 I'm Alejandro Lasierra
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-**Fullstack Developer (React · Node.js · PostgreSQL)**  
-I build clean, fast, and maintainable web applications, taking care of the frontend, backend, and database.
+### 👋 I'm Alejandro Lasierra
+
+**Fullstack Developer** `(React · Node.js · PostgreSQL)`
+
+I build clean, fast, and maintainable web applications — frontend, backend, and database.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-lasierra/)
 
-- **Online CV (demo)**: https://als-code.github.io/cv-react/  
+📄 **Online CV (demo)**: https://als-code.github.io/cv-react/
+
+</td>
+    <td width="50%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280" alt="coding animation"/>
+
+<br>
+
+<sub><code>&lt; building clean code /&gt;</code></sub>
+
+</td>
+  </tr>
+</table>
 
 ---
-
 ## 💼 What I focus on
 
 - **Frontend**: React (SPAs), reusable components, responsive UI.
