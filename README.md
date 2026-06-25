@@ -1,32 +1,13 @@
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 👋 I'm Alejandro Lasierra
+# 👋 I'm Alejandro Lasierra <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" align="top" alt="coding animation"/>
 
 **Fullstack Developer** `(React · Node.js · PostgreSQL)`
 
 I build clean, fast, and maintainable web applications — frontend, backend, and database.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-lasierra/)
+[![Online CV](https://img.shields.io/badge/Online_CV-181717?style=for-the-badge&logo=react&logoColor=61DAFB)](https://als-code.github.io/cv-react/)
 
-📄 **Online CV (demo)**: https://als-code.github.io/cv-react/
-
-</td>
-    <td width="50%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280" alt="coding animation"/>
-
-<br>
-
-<sub><code>&lt; building clean code /&gt;</code></sub>
-
-</td>
-  </tr>
-</table>
-
----
-## 💼 What I focus on
+---## 💼 What I focus on
 
 - **Frontend**: React (SPAs), reusable components, responsive UI.
 - **Backend**: Node.js (APIs), focus on clean and scalable code.
@@ -46,9 +27,12 @@ I build clean, fast, and maintainable web applications — frontend, backend, an
 ## 🧰 Main stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
